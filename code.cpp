@@ -1,4 +1,4 @@
 #include<iostream>
 using namespace std;
 
-int a = 5;
+int a = 50;
